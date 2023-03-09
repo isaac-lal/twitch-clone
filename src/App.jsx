@@ -25,7 +25,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        <h1>Twitch Clone coming soon!</h1>
       </p>
     </div>
   )
